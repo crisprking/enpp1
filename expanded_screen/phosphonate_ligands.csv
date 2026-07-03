@@ -1,0 +1,8 @@
+compound,warhead,smiles,qed,mw,alogp,ro5_viol,pchembl
+CHEMBL5566114,phosphonate,O=c1ccc2c(N3C[C@@H]4[C@@H](CCP(=O)(O)O)[C@@H]4C3)ncnc2[nH]1,0.7,336.29,0.57,0,10.05
+CHEMBL5556000,phosphonate,CC1(CCP(=O)(O)O)CCN(c2ncnc3[nH]c(=O)ccc23)CC1,0.71,352.33,1.49,0,9.8
+CHEMBL5560511,phosphonate,O=c1ccc2c(N3CCC(CCP(=O)(O)O)CC3)ncnc2[nH]1,0.71,338.3,1.1,0,9.52
+CHEMBL5561670,phosphonate,O=c1ccc2c(N3CCC(CCP(=O)(O)O)C3)ncnc2[nH]1,0.71,324.28,0.71,0,9.32
+CHEMBL5560556,phosphonate,COc1cccc2c(N3CCC(CCP(=O)(O)O)CC3)ncnc12,0.8,351.34,2.42,0,9.3
+CHEMBL5566818,phosphonate,O=c1ccc2c(N3CCCC(CP(=O)(O)O)CC3)ncnc2[nH]1,0.72,338.3,1.1,0,9.25
+CHEMBL5558246,phosphonate,O=c1ccc2c(N3CCC(O)(CCP(=O)(O)O)CC3)ncnc2[nH]1,0.57,354.3,0.22,0,9.18

@@ -1,0 +1,7 @@
+cid,smiles,warhead,qed,pchembl
+CHEMBL5826130,COc1cc2ncc(C#N)c(N3CCCC(CNS(N)(=O)=O)CC3)c2cc1OC,sulfamide,0.73,9.66
+CHEMBL5915707,COc1cc2ncc(C#N)c(N3CCC[C@@H](CNS(N)(=O)=O)CC3)c2cc1OC,sulfamide,0.73,9.3
+CHEMBL5555976,COc1cc2nc(C)c3nc(C)n(Cc4ccc(S(N)(=O)=O)cn4)c3c2cc1OC,sulfonamide,0.52,9.28
+CHEMBL6149286,COc1ccc2c(Oc3ccc(C4(C(=O)NO)CCCCC4)cc3)ccnc2n1,hydroxamate,0.5,9.2
+CHEMBL6174154,COc1ccc2c(Oc3ccc(CC(=O)NO)cc3)ccnc2c1,hydroxamate,0.56,9.7
+TZV_native,COc1ccc2c(Oc3ccc(NS(N)(=O)=O)cc3)ccnc2c1,sulfamide,,

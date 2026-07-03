@@ -1,0 +1,9 @@
+state_id,warhead,enpp1,enpp2,enpp3,margin_enpp2,margin_enpp3,compound,state
+CHEMBL5566114_phosphonate__di_anion,phosphonate,-8.3,-8.1,-8.8,0.20000000000000107,-0.5,CHEMBL5566114_phosphonate,di_anion
+CHEMBL5566114_phosphonate__mono_anion,phosphonate,-8.8,-8.1,-9.4,0.7000000000000011,-0.5999999999999996,CHEMBL5566114_phosphonate,mono_anion
+CHEMBL5566114_phosphonate__neutral,phosphonate,-8.6,-8.5,-8.8,0.09999999999999964,-0.20000000000000107,CHEMBL5566114_phosphonate,neutral
+CHEMBL5915707_sulfamide__neutral,sulfamide,-7.9,-7.3,-8.1,0.6000000000000005,-0.1999999999999993,CHEMBL5915707_sulfamide,neutral
+CHEMBL5915707_sulfamide__sulfamide_deprot,sulfamide,-7.4,-7.2,-8.2,0.20000000000000018,-0.7999999999999989,CHEMBL5915707_sulfamide,sulfamide_deprot
+CHEMBL6149286_hydroxamate__hydroxamate_O_deprot,hydroxamate,-9.4,-10.0,-9.8,-0.5999999999999996,-0.40000000000000036,CHEMBL6149286_hydroxamate,hydroxamate_O_deprot
+CHEMBL6149286_hydroxamate__hydroxamate_deprot,hydroxamate,-8.8,-9.6,-10.0,-0.7999999999999989,-1.1999999999999993,CHEMBL6149286_hydroxamate,hydroxamate_deprot
+CHEMBL6149286_hydroxamate__neutral,hydroxamate,-9.5,-11.1,-10.4,-1.5999999999999996,-0.9000000000000004,CHEMBL6149286_hydroxamate,neutral

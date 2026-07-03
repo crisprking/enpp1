@@ -1,0 +1,4 @@
+paralog,pdb,uniprot,resolution_A,bound_active_site_ligand,catalytic_metal,zn_pair_dist_A,box_center,role
+ENPP1,6WEW,P22413,2.73,TZV (sulfamide inhibitor),2x Zn2+ (bimetal),4.27,"21.0,-31.1,-27.7",reference target (already prepared)
+ENPP2 (autotaxin),5MHP,Q13822,2.43,"7NB (imidazo[1,2-a]pyridine inhibitor)",2x Zn2+ (bimetal),4.59,"99.3,4.2,15.1",paralog counter-screen (major circulating lysoPLD)
+ENPP3,6C01,O14638,2.3,none (apo; catalytic Zn/Ca present),2x Zn2+ + Ca2+ (bimetal),4.35,"110.0,135.9,65.6","paralog counter-screen (hardest selectivity, ~2 divergent residues <4A)"

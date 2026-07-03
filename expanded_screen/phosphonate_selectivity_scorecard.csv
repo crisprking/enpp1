@@ -1,0 +1,8 @@
+compound,qed,pchembl,ENPP1,ENPP2,ENPP3,margin_ENPP2,margin_ENPP3,worst_margin,verdict
+CHEMBL5566818,0.72,9.25,-9.5,-8.4,-8.8,1.1,0.7,0.7,ENPP1-preferring
+CHEMBL5556000,0.71,9.8,-9.3,-7.9,-9.1,1.4,0.2,0.2,borderline
+CHEMBL5560556,0.8,9.3,-9.9,-8.7,-9.9,1.2,0.0,0.0,borderline
+CHEMBL5560511,0.71,9.52,-8.7,-8.1,-8.9,0.6,-0.2,-0.2,borderline
+CHEMBL5566114,0.7,10.05,-8.6,-8.5,-9.1,0.1,-0.5,-0.5,anti-selective
+CHEMBL5561670,0.71,9.32,-9.1,-7.9,-9.7,1.2,-0.6,-0.6,anti-selective
+CHEMBL5558246,0.57,9.18,-8.2,-8.2,-9.3,0.0,-1.1,-1.1,anti-selective

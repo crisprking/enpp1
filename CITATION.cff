@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this workflow or data, please cite it as below."
+title: "ENPP-family selectivity counter-screen for ENPP1 oral inhibitors"
+abstract: >-
+  A structure-based paralog-selectivity triage of candidate ENPP1 inhibitors
+  against ENPP2/autotaxin and ENPP3, using matched catalytic-Zn docking and
+  active-site conservation analysis. Computational methods demonstration; no
+  experimental data.
+type: dataset
+authors:
+  - name: "ENPP1 selectivity counter-screen contributors"
+version: "2.0.0"
+date-released: "2026-07-03"
+license: MIT
+keywords:
+  - ENPP1
+  - selectivity
+  - molecular docking
+  - autotaxin
+  - ENPP3
+  - structure-based drug design
+references:
+  - type: data
+    title: "ENPP1 in complex with a sulfamide inhibitor"
+    notes: "RCSB PDB 6WEW"
+  - type: data
+    title: "Autotaxin (ENPP2) in complex with an imidazopyridine inhibitor"
+    notes: "RCSB PDB 5MHP"
+  - type: data
+    title: "ENPP3 apo structure"
+    notes: "RCSB PDB 6C01"
+  - type: database
+    title: "ChEMBL bioactivity database"
+    notes: "Ligand structures and pChEMBL values; CC BY-SA 3.0"
+  - type: article
+    title: "ENPP1 inhibitor with ultralong drug-target residence time as an innate immune checkpoint blockade cancer therapy"
+    notes: "Cell Reports Medicine 2025; DOI 10.1016/j.xcrm.2025.102336; PMID 40914167"
+  - type: article
+    title: "Oral ENPP1 inhibitor designed using generative AI as next generation STING modulator for solid tumors"
+    notes: "Nature Communications 2025; DOI 10.1038/s41467-025-59874-0; PMID 40410143"
+  - type: article
+    title: "Crystal structures of human ENPP1 in apo and bound forms"
+    notes: "Acta Cryst D 2020; DOI 10.1107/S2059798320010505; PMID 32876064 (source of 6WEW receptor and native ligand TZV)"

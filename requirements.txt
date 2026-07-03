@@ -1,0 +1,14 @@
+# Python dependencies for the ENPP1 selectivity counter-screen
+# (analysis + figures; docking itself uses the external binaries below)
+rdkit>=2023.9      # ligand embedding, MMFF optimization, SMILES handling
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+
+# External command-line tools (NOT pip-installable — install separately):
+#   smina         docking engine        https://sourceforge.net/projects/smina/
+#   openbabel     obabel PDBQT prep      https://openbabel.org  (conda: openbabel)
+#
+# Recommended install (conda/mamba):
+#   mamba create -n enpp-dock -c conda-forge rdkit openbabel smina pandas numpy matplotlib seaborn

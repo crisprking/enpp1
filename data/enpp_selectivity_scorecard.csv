@@ -1,0 +1,7 @@
+compound,warhead,qed,pchembl,ENPP1,ENPP2,ENPP3,margin_ENPP2,margin_ENPP3,worst_paralog_margin,selectivity_verdict
+CHEMBL6149286,hydroxamate,0.5,9.2,-9.5,-10.1,-11.0,-0.6,-1.5,-1.5,anti-selective (binds paralogs ≥ ENPP1)
+CHEMBL6174154,hydroxamate,0.56,9.7,-8.8,-8.8,-10.1,0.0,-1.3,-1.3,anti-selective (binds paralogs ≥ ENPP1)
+TZV_native,sulfamide,,,-8.7,-8.3,-10.0,0.4,-1.3,-1.3,anti-selective (binds paralogs ≥ ENPP1)
+CHEMBL5826130,sulfamide,0.73,9.66,-7.8,-7.4,-7.8,0.4,0.0,0.0,borderline/non-selective
+CHEMBL5555976,sulfonamide,0.52,9.28,-8.3,-8.2,-7.7,0.1,0.6,0.1,borderline/non-selective
+CHEMBL5915707,sulfamide,0.73,9.3,-7.9,-6.7,-7.5,1.2,0.4,0.4,ENPP1-preferring

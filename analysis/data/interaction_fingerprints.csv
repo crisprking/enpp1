@@ -1,0 +1,93 @@
+ligand,target,role,resnum,divergent,contacts,wall
+CHEMBL5826130,enpp1,Zn coordination,218,False,hbond,False
+CHEMBL5826130,enpp1,phosphate binding,255,False,hbond+hydrophobic,True
+CHEMBL5826130,enpp1,substrate/threonine (nucleotide site),256,False,hbond,False
+CHEMBL5826130,enpp1,aromatic stack,371,False,hbond,False
+CHEMBL5826130,enpp1,Zn coordination,376,False,hbond+hydrophobic,True
+CHEMBL5826130,enpp1,Zn coordination,380,False,aromatic+hbond+hydrophobic,True
+CHEMBL5826130,enpp1,catalytic His (nucleophile assist),535,False,aromatic,True
+CHEMBL5826130,enpp2,Zn coordination,172,False,hbond,False
+CHEMBL5826130,enpp2,hydrophobic pocket,211,False,aromatic+hydrophobic,True
+CHEMBL5826130,enpp2,selectivity switch (ENPP1/3 His → ENPP2 Leu),214,True,hydrophobic,True
+CHEMBL5826130,enpp2,aromatic stack,307,False,aromatic+hbond+hydrophobic,True
+CHEMBL5826130,enpp3,hydrophobic pocket,206,False,aromatic+hydrophobic,True
+CHEMBL5826130,enpp3,aromatic stack,320,False,aromatic+hbond+hydrophobic,True
+CHEMBL5915707,enpp1,Zn coordination,218,False,hbond,False
+CHEMBL5915707,enpp1,phosphate binding,255,False,hbond+hydrophobic,True
+CHEMBL5915707,enpp1,substrate/threonine (nucleotide site),256,False,hbond,False
+CHEMBL5915707,enpp1,aromatic stack,371,False,hbond,False
+CHEMBL5915707,enpp1,Zn coordination,376,False,hbond,False
+CHEMBL5915707,enpp1,Zn coordination,380,False,aromatic+hbond+hydrophobic,True
+CHEMBL5915707,enpp1,catalytic His (nucleophile assist),535,False,aromatic+hydrophobic,True
+CHEMBL5915707,enpp2,Zn coordination,172,False,hbond,False
+CHEMBL5915707,enpp2,phosphate binding,209,False,hbond,False
+CHEMBL5915707,enpp2,aromatic stack,307,False,hbond,False
+CHEMBL5915707,enpp2,Zn coordination,312,False,hbond+hydrophobic,True
+CHEMBL5915707,enpp2,selectivity switch (ENPP1/3 Ser → ENPP2 Phe),313,True,aromatic+hydrophobic,True
+CHEMBL5915707,enpp2,Zn coordination,316,False,aromatic+hydrophobic,True
+CHEMBL5915707,enpp2,catalytic His (nucleophile assist),475,False,aromatic,True
+CHEMBL5915707,enpp3,Zn coordination,167,False,hbond,False
+CHEMBL5915707,enpp3,substrate/threonine (nucleotide site),205,False,hydrophobic,True
+CHEMBL5915707,enpp3,hydrophobic pocket,206,False,aromatic+hydrophobic,True
+CHEMBL5915707,enpp3,selectivity switch (ENPP1/3 His → ENPP2 Leu),209,True,aromatic,True
+CHEMBL5915707,enpp3,aromatic stack,320,False,aromatic+hbond+hydrophobic,True
+CHEMBL5915707,enpp3,Zn coordination,325,False,hbond,False
+CHEMBL5915707,enpp3,selectivity switch (ENPP1/3 Ser → ENPP2 Phe),326,True,hbond,False
+CHEMBL5555976,enpp1,Zn coordination,218,False,hbond,False
+CHEMBL5555976,enpp1,phosphate binding,255,False,hbond+hydrophobic,True
+CHEMBL5555976,enpp1,substrate/threonine (nucleotide site),256,False,hbond,False
+CHEMBL5555976,enpp1,Zn coordination,376,False,hbond,False
+CHEMBL5555976,enpp1,Zn coordination,380,False,aromatic+hydrophobic,True
+CHEMBL5555976,enpp2,Zn coordination,172,False,hbond,False
+CHEMBL5555976,enpp2,substrate/threonine (nucleotide site),210,False,hbond+hydrophobic,True
+CHEMBL5555976,enpp2,hydrophobic pocket,211,False,aromatic+hydrophobic,True
+CHEMBL5555976,enpp2,selectivity switch (ENPP1/3 His → ENPP2 Leu),214,True,hydrophobic,True
+CHEMBL5555976,enpp2,aromatic stack,307,False,aromatic+hydrophobic,True
+CHEMBL5555976,enpp2,Zn coordination,312,False,hbond,False
+CHEMBL5555976,enpp3,substrate/threonine (nucleotide site),205,False,hydrophobic,True
+CHEMBL5555976,enpp3,hydrophobic pocket,206,False,aromatic+hydrophobic,True
+CHEMBL5555976,enpp3,aromatic stack,320,False,aromatic+hbond+hydrophobic,True
+CHEMBL5555976,enpp3,Zn coordination,325,False,hydrophobic,True
+CHEMBL6149286,enpp1,phosphate binding,255,False,hbond,False
+CHEMBL6149286,enpp1,substrate/threonine (nucleotide site),256,False,hydrophobic,True
+CHEMBL6149286,enpp1,hydrophobic pocket,257,False,aromatic+hydrophobic,True
+CHEMBL6149286,enpp1,aromatic stack,371,False,aromatic+hbond+hydrophobic,True
+CHEMBL6149286,enpp1,Zn coordination,380,False,aromatic+hydrophobic,True
+CHEMBL6149286,enpp1,catalytic His (nucleophile assist),535,False,aromatic+hbond+hydrophobic,True
+CHEMBL6149286,enpp2,hydrophobic pocket,211,False,aromatic+hydrophobic,True
+CHEMBL6149286,enpp2,selectivity switch (ENPP1/3 His → ENPP2 Leu),214,True,hbond+hydrophobic,True
+CHEMBL6149286,enpp2,aromatic stack,307,False,aromatic+hbond+hydrophobic,True
+CHEMBL6149286,enpp3,Zn coordination,167,False,hbond,False
+CHEMBL6149286,enpp3,substrate/threonine (nucleotide site),205,False,hbond+hydrophobic,True
+CHEMBL6149286,enpp3,hydrophobic pocket,206,False,aromatic+hydrophobic,True
+CHEMBL6149286,enpp3,aromatic stack,320,False,aromatic,True
+CHEMBL6149286,enpp3,Zn coordination,325,False,hbond+hydrophobic,True
+CHEMBL6149286,enpp3,Zn coordination,329,False,aromatic,True
+CHEMBL6149286,enpp3,catalytic His (nucleophile assist),483,False,aromatic+hbond,True
+CHEMBL6174154,enpp1,phosphate binding,255,False,hbond+hydrophobic,True
+CHEMBL6174154,enpp1,Zn coordination,380,False,aromatic+hydrophobic,True
+CHEMBL6174154,enpp1,catalytic His (nucleophile assist),535,False,aromatic+hydrophobic,True
+CHEMBL6174154,enpp2,Zn coordination,172,False,hbond,False
+CHEMBL6174154,enpp2,substrate/threonine (nucleotide site),210,False,hbond+hydrophobic,True
+CHEMBL6174154,enpp2,hydrophobic pocket,211,False,aromatic+hydrophobic,True
+CHEMBL6174154,enpp2,selectivity switch (ENPP1/3 His → ENPP2 Leu),214,True,hydrophobic,True
+CHEMBL6174154,enpp2,aromatic stack,307,False,aromatic+hbond+hydrophobic,True
+CHEMBL6174154,enpp3,Zn coordination,167,False,hbond,False
+CHEMBL6174154,enpp3,substrate/threonine (nucleotide site),205,False,hbond+hydrophobic,True
+CHEMBL6174154,enpp3,hydrophobic pocket,206,False,aromatic+hydrophobic,True
+CHEMBL6174154,enpp3,aromatic stack,320,False,aromatic+hydrophobic,True
+CHEMBL6174154,enpp3,Zn coordination,325,False,hbond+hydrophobic,True
+CHEMBL6174154,enpp3,Zn coordination,329,False,aromatic,True
+CHEMBL6174154,enpp3,Zn coordination,373,False,hbond,False
+CHEMBL6174154,enpp3,catalytic His (nucleophile assist),483,False,aromatic+hbond,True
+TZV_native,enpp1,substrate/threonine (nucleotide site),256,False,hydrophobic,True
+TZV_native,enpp1,hydrophobic pocket,257,False,aromatic+hydrophobic,True
+TZV_native,enpp1,aromatic stack,371,False,aromatic+hbond+hydrophobic,True
+TZV_native,enpp2,hydrophobic pocket,211,False,aromatic+hydrophobic,True
+TZV_native,enpp2,selectivity switch (ENPP1/3 His → ENPP2 Leu),214,True,hbond+hydrophobic,True
+TZV_native,enpp2,aromatic stack,307,False,aromatic+hydrophobic,True
+TZV_native,enpp3,substrate/threonine (nucleotide site),205,False,hbond+hydrophobic,True
+TZV_native,enpp3,hydrophobic pocket,206,False,aromatic+hydrophobic,True
+TZV_native,enpp3,aromatic stack,320,False,aromatic+hydrophobic,True
+TZV_native,enpp3,Zn coordination,325,False,hbond,False
+TZV_native,enpp3,Zn coordination,329,False,hbond,False

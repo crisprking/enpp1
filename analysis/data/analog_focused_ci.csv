@@ -1,0 +1,4 @@
+analog,enpp1,enpp1_sd,enpp2,enpp3,margin_enpp2,ci2,margin_enpp3,ci3,worst_margin,worst_paralog,n_seeds
+AN00_parent,-8.1,0.0,-7.34,-7.95,0.76,"[0.70,0.83]",0.15,"[0.08,0.22]",0.15,ENPP3,15
+AN10_piperidinol,-9.08,0.55,-7.35,-8.38,1.73,"[1.42,2.00]",0.7,"[0.39,0.95]",0.7,ENPP3,15
+AN11_fluoro_pip,-8.15,0.05,-7.71,-7.52,0.45,"[0.42,0.47]",0.63,"[0.59,0.67]",0.45,ENPP2,15

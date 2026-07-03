@@ -1,0 +1,15 @@
+enpp1,enpp2,enpp2_d,enpp3,enpp3_d,enpp2_identical,enpp3_identical,role,divergent
+ASP218,ASP172,0.2,ASP167,0.1,True,True,Zn coordination,False
+GLY219,GLY173,0.2,GLY168,0.2,True,True,backbone,False
+LYS255,LYS209,0.3,LYS204,0.3,True,True,phosphate binding,False
+THR256,THR210,0.3,THR205,0.3,True,True,substrate/threonine (nucleotide site),False
+PHE257,PHE211,0.3,PHE206,0.2,True,True,hydrophobic pocket,False
+HIS260,LEU214,0.2,HIS209,0.1,False,True,selectivity switch (ENPP1/3 His → ENPP2 Leu),True
+TYR371,TYR307,0.3,TYR320,0.2,True,True,aromatic stack,False
+ASP376,ASP312,0.1,ASP325,0.0,True,True,Zn coordination,False
+SER377,PHE313,0.2,SER326,0.2,False,True,selectivity switch (ENPP1/3 Ser → ENPP2 Phe),True
+HIS380,HIS316,0.3,HIS329,0.1,True,True,Zn coordination,False
+ASP423,ASP359,0.2,ASP372,0.1,True,True,Zn coordination,False
+HIS424,HIS360,0.1,HIS373,0.1,True,True,Zn coordination,False
+MET426,MET362,0.2,MET375,0.3,True,True,hydrophobic,False
+HIS535,HIS475,0.3,HIS483,0.1,True,True,catalytic His (nucleophile assist),False

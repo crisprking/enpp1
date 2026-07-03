@@ -1,0 +1,10 @@
+{
+  "title": "ENPP1 paralog-selectivity counter-screen",
+  "id": "crisprking/enpp1-selectivity-counter-screen",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "subtitle": "Structure-based ENPP1 vs ENPP2/ENPP3 docking selectivity triage with validation controls (computational; no wet-lab data)"
+}

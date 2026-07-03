@@ -1,0 +1,10 @@
+mode,affinity_kcal_mol,rmsd_heavy_A,in_pocket
+1,-9.0,3.44,True
+2,-8.6,3.91,True
+3,-8.6,3.55,True
+4,-7.6,11.21,False
+5,-7.6,11.51,False
+6,-7.2,3.08,True
+7,-7.2,10.7,False
+8,-7.1,12.81,False
+9,-7.1,10.61,False

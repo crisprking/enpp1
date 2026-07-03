@@ -1,0 +1,8 @@
+short,role,doi,year,pmid,doi_verified
+Kato 2012 crystal,"First ENPP1 crystal structure (mouse, nucleotide complexes)",10.1073/pnas.1208017109,2012,23027977.0,True
+Li 2014 / 6WEW-class,Human ENPP1 structural basis (our docking receptor lineage),,2014,,
+AVA-NP-695 (Baird 2022),"Selective ENPP1 inhibitor, STING activation, anti-tumor",10.3390/molecules27196721,2022,36235254.0,True
+ENPP3 cGAMP hydrolase (Li 2024),ENPP3 = 2nd metazoan cGAMP hydrolase / immune checkpoint — biological basis for ENPP1/3 selectivity,10.1016/j.celrep.2024.114209,2024,38749434.0,True
+Generative-AI oral inhibitor (2025),"GenAI-designed oral ENPP1 inhibitor, next-gen STING modulator",10.1038/s41467-025-59874-0,2025,40410143.0,True
+Ultralong-residence inhibitor (2025),ENPP1 inhibitor w/ ultralong target residence time as immune checkpoint,10.1016/j.xcrm.2025.102336,2025,40914167.0,True
+Med-chem review (2024),"Review of small-molecule ENPP1 inhibitors (chemotypes, SAR)",10.1016/j.ejmech.2024.116286,2024,38432057.0,True
